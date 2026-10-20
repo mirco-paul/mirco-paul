@@ -1,6 +1,15 @@
-## 📊 My GitHub Stats
+<h2 align="center">📊 GitHub Statistics</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirco-paul&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=mirco-paul&show_icons=true&theme=tokyonight" />
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirco-paul&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mirco-paul&theme=tokyonight" />
+</p>
 
 <!--
 **mirco-paul/mirco-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
